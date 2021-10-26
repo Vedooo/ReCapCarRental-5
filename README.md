@@ -6,7 +6,6 @@
 <p>ValidationAspect Added with Autofac to control the use of Reflections (Core > Aspects > Autofac > Validation) </p>
 <p>Added IOC usage commands to control WebAPI. (WebAPI > P) </p>
 
-<h2>----------------------------------------------------------</h2>
 
 <h1>Refactors</h1>
 <p>WebAPI > Startup for using own IOC Containers</p>
