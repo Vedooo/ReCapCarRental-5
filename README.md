@@ -4,7 +4,7 @@
 <p>Validation Tools Added (Core > CrossCuttingConcerns > Validation)</p>
 <p>Interceptors Added for using Attribute reading and listing (Core > Utilities > Interceptors)</p>
 <p>ValidationAspect Added with Autofac to control the use of Reflections (Core > Aspects > Autofac > Validation) </p>
-<p>Added IOC usage commands to control WebAPI. (WebAPI > P) </p>
+<p>Added IOC usage commands to control WebAPI. (WebAPI > Program.cs) </p>
 
 
 <h1>Refactors</h1>
