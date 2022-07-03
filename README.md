@@ -8,6 +8,6 @@
 
 
 <h1>Refactors</h1>
-<p>WebAPI > Startup for using own IOC Containers</p>
-<p>Business > Abstract classes for using validation rules and tool also using Attribute Tools </p>
+<p>WebAPI > Startup for using own IOC Containers.</p>
+<p>Business > Abstract classes for using validation rules and tool also using Attribute Tools. </p>
 
